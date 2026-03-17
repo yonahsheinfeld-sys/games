@@ -1,6 +1,0 @@
-print("here are your games ")
-print("pop the lock = py pop_the_lock.py ")
-print("snake game = py snake.py")
-print("hangman = py hangman.py")
-print("tic tac toe = super_tic_tac_toe.py")
-print("tic tac toe = py tic_tac_toe.py")
